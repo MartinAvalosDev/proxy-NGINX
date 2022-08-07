@@ -1,4 +1,4 @@
-# Entregable: Nginx & PM2
+# Desafio NGINX Y SERVIDORES CON BALANCE DE CARGA
 ## Alumno: Martin Alejandro Avalos
 
 Desafío: Servidores - Nginx & PM2
